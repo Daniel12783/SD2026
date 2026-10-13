@@ -2,6 +2,7 @@ import time
 
 def ciclo():
     cnt = 0
+    nombre = input("Ingrese su nombre para iniciar el ciclo: ")
     print(f"Iniciando ciclo...")
     while True:
         try: 
